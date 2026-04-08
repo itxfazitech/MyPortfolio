@@ -100,6 +100,9 @@ export const metadata = {
     shortcut: "/dp/dp.png",
   },
   category: "technology",
+  verification: {
+    google: "xDIKqUN-3zSz1CkA4zROEJi-_0_djXfn9RvjCptp",
+  },
 };
 
 const personSchema = {
