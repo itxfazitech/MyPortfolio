@@ -7,6 +7,7 @@ const NAV = [
   { label: "Services", href: "/services" },
   { label: "About",    href: "/about" },
   { label: "Contact",  href: "/contact" },
+  { label: "FAQ",      href: "/faq" },
 ];
 
 const SERVICES_LIST = [
@@ -197,7 +198,7 @@ export default function Footer() {
                       <circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/>
                     </svg>
                   </span>
-                  <span className="text-[13px] text-slate-500">Mon–Fri, 9am – 7pm PKT</span>
+                  <span className="text-[13px] text-slate-500">Mon–Sat, 24/7 &nbsp;·&nbsp; Sun: Urgent only</span>
                 </div>
               </div>
             </div>

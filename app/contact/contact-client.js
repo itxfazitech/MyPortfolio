@@ -66,7 +66,7 @@ const PROJECT_TYPES = [
 const SIGNALS = [
   { label: "Response Window", value: "< 24h" },
   { label: "Engagement Types", value: "Freelance / Consulting" },
-  { label: "Timezone", value: "PKT, remote-first" },
+  { label: "Working Hours", value: "Mon–Sat, 24/7 · Sun: Urgent only" },
 ];
 
 const PROCESS = [
